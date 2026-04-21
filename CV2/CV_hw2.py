@@ -167,7 +167,6 @@ def main():
 
     cap.release()
     cv2.destroyAllWindows()
-    print(f"Программа завершена. Обработано кадров: {frame_count}")
 
 
 if __name__ == "__main__":
