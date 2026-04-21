@@ -1,0 +1,2 @@
+run:
+	python CV_hw2.py pic.jpg video.mp4
